@@ -1,0 +1,22 @@
+
+.icon-mail:before { content: '\e800'; } /* '' */
+.icon-heart-empty:before { content: '\e801'; } /* '' */
+.icon-user:before { content: '\e802'; } /* '' */
+.icon-videocam:before { content: '\e803'; } /* '' */
+.icon-heart:before { content: '\e804'; } /* '' */
+.icon-search:before { content: '\e805'; } /* '' */
+.icon-ok-circled2:before { content: '\e806'; } /* '' */
+.icon-ok-circled:before { content: '\e807'; } /* '' */
+.icon-home:before { content: '\e808'; } /* '' */
+.icon-attach:before { content: '\e809'; } /* '' */
+.icon-bookmark:before { content: '\e80a'; } /* '' */
+.icon-download:before { content: '\e80b'; } /* '' */
+.icon-comment:before { content: '\e80c'; } /* '' */
+.icon-trash-empty:before { content: '\e80d'; } /* '' */
+.icon-basket:before { content: '\e80e'; } /* '' */
+.icon-bookmark-empty:before { content: '\f097'; } /* '' */
+.icon-comment-empty:before { content: '\f0e5'; } /* '' */
+.icon-share:before { content: '\f1e0'; } /* '' */
+.icon-trash:before { content: '\f1f8'; } /* '' */
+.icon-cart-plus:before { content: '\f217'; } /* '' */
+.icon-user-plus:before { content: '\f234'; } /* '' */
